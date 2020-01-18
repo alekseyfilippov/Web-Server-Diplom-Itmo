@@ -1,5 +1,3 @@
-Simple HTTP server for study Java.
+Simple HTTP server for study Java http://profi.ifmo.ru/java-developer/
 
-It's able to process GET requests.
-
-For usage refer example module. 
+My part of work was to realize cookies and sessions. Were implemented cookiea, sessions and tests for sessions.
